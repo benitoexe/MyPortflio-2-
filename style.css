@@ -1,0 +1,18 @@
+h1{
+    color:rgb(23, 68, 53);
+    font-family: cursive;
+}
+.header{
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
